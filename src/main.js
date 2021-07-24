@@ -19,6 +19,11 @@ function init(){
     cast.onclick = function(e){
         spellCast();
     }
+    wordInput.onkeyup = function(e){
+        if (e.keyCode === 13) {
+            cast.click();
+        }
+    }
 }
 
 function spellCast(){
