@@ -1,0 +1,10 @@
+body{
+    background: #222232;
+    color: #FFF;
+}
+@media only screen and (max-width: 800px) {
+  body {
+    text-align: center;
+    margin: auto;
+  }
+}
