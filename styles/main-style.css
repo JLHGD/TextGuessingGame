@@ -5,19 +5,19 @@ body{
 
 header{
     background-color: #223252;
-    margin-bottom: 0;
+    margin-bottom: 0px;
 }
 
 #hpAndStatus{
     font-size: 2rem;
     background-color: #223272;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 #gameSpace{
     background-color: #223262;
-    margin-top: 0;
+    margin-top: 0px;
 }
 
 #wordinput{
