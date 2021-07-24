@@ -1,6 +1,7 @@
 body{
     background: #222232;
     color: #FFF;
+    font-size: 30px;
 }
 @media only screen and (max-width: 800px) {
   body {
