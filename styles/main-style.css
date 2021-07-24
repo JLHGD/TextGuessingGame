@@ -4,19 +4,19 @@ body{
 }
 
 header{
-    background-color: #222252;
+    background-color: #223252;
     margin-bottom: 0;
 }
 
 #hpAndStatus{
     font-size: 2rem;
-    background-color: #222272;
+    background-color: #223272;
     margin-top: 0;
     margin-bottom: 0;
 }
 
 #gameSpace{
-    background-color: #222262;
+    background-color: #223262;
     margin-top: 0;
 }
 
