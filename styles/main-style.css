@@ -3,6 +3,19 @@ body{
     color: #FFF;
     font-size: 2rem;
 }
+
+.story{
+    font-size: 2rem;
+}
+
+#monsterhp{
+    font-size: 1.5rem;
+}
+
+#statusmessage{
+    font-size: 1.5rem;
+}
+
 @media only screen and (max-width: 800px) {
   body {
     text-align: center;
