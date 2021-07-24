@@ -3,16 +3,12 @@ body{
     color: #FFF;
 }
 
-.story{
-    font-size: 0.5rem;
-}
-
 #monsterhp{
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 #statusmessage{
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 @media only screen and (max-width: 800px) {
