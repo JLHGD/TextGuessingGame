@@ -19,7 +19,6 @@ function init(){
     cast.onclick = function(e){
         spellCast();
     }
-    cast.focus();
 }
 
 function spellCast(){
