@@ -3,11 +3,20 @@ body{
     color: #FFF;
 }
 
-#monsterhp{
-    font-size: 2rem;
+header{
+    background-color: #222252;
 }
 
-#statusmessage{
+#hpAndStatus{
+    font-size: 2rem;
+    background-color: #222272;
+}
+
+#gameSpace{
+    background-color: #222262;
+}
+
+#wordinput{
     font-size: 2rem;
 }
 

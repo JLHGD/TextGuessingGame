@@ -13,22 +13,25 @@
     <body>
         <div id="root">
         <header>
-        </header>
-
-        <main>
             <p class="story">You are in a small, defenseless village. Out on the outskirts you hear a resonating, guttural roar fill these small streets as a monster of your worst nightmares comes bounding into the village.</p>
 
             <p class="story">Without your help, this town might perish! What will you do?</p><br>
+        </header>
 
-            <p id="monsterhp">Monster HP: <b id="hp">100</b> </p>
-            <p id="statusmessage">Defeat the monster!</p><br>
+        <main>
+            <div id="hpAndStatus">
+                <p id="monsterhp">Monster HP: <b id="hp">100</b> </p>
+                <p id="statusmessage">Defeat the monster!</p><br>
 
-            <p id="instructions"><b>Type in each word, one at a time.</b></p>
+                <p id="instructions"><b>Type in each word, one at a time.</b></p>
+            </div>
 
-            <label for="fname"><b>Spell Name:</b></label>
-            <input type="text" id="wordinput" name="wordinput">
+            <div id="gameSpace">
+                <label for="wordinput"><b>Spell Name:</b></label>
+                <input type="text" id="wordinput" name="wordinput">
 
-            <button type="button" name="button" id="cast">Cast!</button>
+                <button type="button" name="button" id="cast">Cast!</button>
+            </div>
         </main>
 
         <footer>
